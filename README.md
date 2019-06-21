@@ -1,4 +1,4 @@
-# Mode Explorer 
+# Pariticle Trajectory Sonification and Mode Explorer 
 
 A Model-based sonification method based on Particle Trajectory Sonification. 
 
